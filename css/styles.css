@@ -200,6 +200,10 @@ input:focus, textarea:focus {
 	margin-bottom: 10px;
 }
 
+img[src*="#width-full"] {
+	width: 100%;
+}
+
 /* Footer
 —————————————————————————————————————————————————————————————————————— */
 

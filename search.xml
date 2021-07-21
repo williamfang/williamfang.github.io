@@ -28,8 +28,11 @@
   <entry>
     <title>中文测试</title>
     <url>/2021/03/18/%E4%B8%AD%E6%96%87%E6%B5%8B%E8%AF%95/</url>
-    <content><![CDATA[<p>cover_image: /images/pasted-0.png<br>这是一篇中文测试</p>
-<p><img src="/images/pasted-0.png" alt="upload successful"></p>
-]]></content>
+    <content><![CDATA[<hr>
+<p>title: hello<br>cover_image: /images/pasted-0.png</p>
+<hr>
+<p>这是一篇中文测试</p>
+<p><img src="/images/pasted-0.png#width-full" alt="upload successful"></p>
+<img src="/images/pasted-0.png" width="100%">]]></content>
   </entry>
 </search>
