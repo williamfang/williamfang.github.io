@@ -1,12 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>不变</title>
-    <url>/2021/03/18/210721/</url>
-    <content><![CDATA[<figure class="highlight javascript"><table><tr><td class="code"><pre><span class="line"><span class="built_in">console</span>.log(<span class="string">&quot;我叫丰木木&quot;</span>)</span><br></pre></td></tr></table></figure>
-
-<p>这是一篇中文测试</p>
+    <title>图片测试</title>
+    <url>/2021/03/18/%E5%9B%BE%E7%89%87%E6%B5%8B%E8%AF%95/</url>
+    <content><![CDATA[<p>这是一篇中文测试</p>
 <p><img src="/images/pasted-0.png#width-full" alt="img"></p>
-<img src="/images/pasted-0.png" width="100%">]]></content>
+<img src="/images/pasted-0.png" width="100%">
+
+<p>ssh-keygen -t rsa -C “william”<br>git config –global user.name “williamfang”<br>git config –global user.email “<a href="mailto:william.fang@qq.com">william.fang@qq.com</a>“</p>
+<p>cp /root/.ssh/id_rsa.pub /app/key </p>
+]]></content>
   </entry>
 </search>
