@@ -97,24 +97,23 @@ remote_theme: standrews
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
-deploy:
-  type: git
+# deploy:
+  #type: git
   #repo: git@github.com:williamfang/williamfang.github.io.git
-  repo: https://github.com/williamfang/williamfang.github.io.git
-  branch: master
+  #repo: https://github.com/williamfang/williamfang.github.io.git
+  #branch: master
   # message: "Site updated"
-  name: williamfang
-  email: william.fang@qq.com
+  #name: williamfang
+  #email: william.fang@qq.com
 
 
 # hexo-admin authentification
-admin:
+#admin:
 
-  username: william
-  password_hash: $2a$10$QO71zLgL7q5uPFhR0PrHmO.zVrTv/iuIWKg/0pTSs71PXt5qnEqLK
-  secret: mima
-  deployCommand: ./admin_script/hexo-d.sh
-  #deployCommand: './hexo-deploy.sh'
+ # username: william
+  #password_hash: $2a$10$QO71zLgL7q5uPFhR0PrHmO.zVrTv/iuIWKg/0pTSs71PXt5qnEqLK
+  #secret: mima
+ # deployCommand: ./admin_script/hexo-d.sh
 
 
 
