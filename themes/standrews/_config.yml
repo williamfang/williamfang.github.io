@@ -1,0 +1,29 @@
+# Header
+menu:
+  Home: /
+  About: /about
+  Contact: /contact
+
+# Favicon
+favicon_url:
+
+# Default Image for Posts
+default_cover_image: images/default.jpg
+
+# Google Analytics Tracking ID
+google_analytics: G-2KZRD4J8X5
+
+# Social Accounts
+email_url: mailto:william.fang@qq.com
+twitter_url: https://twitter.com/williamfang
+facebook_url: https://www.facebook.com/iwilliamfang
+instagram_url: https://www.instagram.com/william.fang
+linkedin_url: # https://www.linkedin.com/
+dribbble_url:
+github_url:
+googleplus_url:
+behance_url: https://be.net/williamfang/
+fivehundredpx_url:
+
+# Disqus comments
+disqus_shortname: williamfang
