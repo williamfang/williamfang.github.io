@@ -133,7 +133,7 @@ comment:
     shortname: williamfang # duoshuo or disqus shortname
     
 netlify_cms:
-  config_file: admin/config.yaml
+  config_file: admin/config.yml
   backend:
     name: git-gateway
     branch: master
