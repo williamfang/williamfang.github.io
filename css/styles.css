@@ -142,7 +142,7 @@ input:focus, textarea:focus {
 
 .post-image img:hover {
 	opacity: 0.8;
-  filter: alpha(opacity=80);
+	filter: alpha(opacity=80);
 }
 
 .post-details {
@@ -200,7 +200,7 @@ input:focus, textarea:focus {
 	margin-bottom: 10px;
 }
 
-img[src*="#width-full"] {
+img {
 	width: 100%;
 }
 
