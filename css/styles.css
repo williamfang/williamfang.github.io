@@ -200,7 +200,7 @@ input:focus, textarea:focus {
 	margin-bottom: 10px;
 }
 
-img {
+img[src*="#width-full"] {
 	width: 100%;
 }
 
