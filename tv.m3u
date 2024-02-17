@@ -5,6 +5,8 @@ https://node1.olelive.com:6443/live/CCTV1HD/hls.m3u8
 https://node1.olelive.com:6443/live/CCTV2HD/hls.m3u8
 #EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/CCTV3" tvg-id="CCTV3" tvg-name="CCTV3",CCTV-3
 https://node1.olelive.com:6443/live/CCTV3HD/hls.m3u8
+#EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/CCTV3" tvg-id="CCTV3" tvg-name="CCTV3",CCTV-3
+https://tv.cctv.com/489186a4-e799-4e0a-a39d-27144b9fbc4e
 #EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/CCTV4" tvg-id="CCTV2" tvg-name="CCTV4",CCTV-4
 https://node1.olelive.com:6443/live/CCTV4HD/hls.m3u8
 #EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/CCTV5" tvg-id="CCTV2" tvg-name="CCTV5",CCTV-5
