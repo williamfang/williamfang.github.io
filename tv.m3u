@@ -44,3 +44,6 @@ http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225745/1.m3u8
 http://phonetx.qing.mgtv.com/nn_live/nn_x64/cWlkPSZzPTRjODQ4NDI5NjQ0NzdlYTk4NzMyZjNkZGJiMDgyNzE5JmVzPTE3MDgyNjY0MzImdXVpZD1lNWE1Y2ViOGY0OGNkZTQ0OTg4ODMwNjAzYTM0NGFkNC02NzQ3NDY2NyZ2PTImYXM9MCZjZG5leF9pZD10eF9waG9uZV9saXZl/JYKTMPP360.m3u8
 #EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/金鹰卡通" tvg-id="金鹰卡通" tvg-name="金鹰卡通",金鹰卡通
 https://phonews.qing.mgtv.com/nn_live/nn_x64/dWlwPTUwLjcuMTE0LjM1JnFpZD0mcz1kYjM5MmUxYTVhN2I4NDYwM2FjZDk1Yjc4Nzk4NTNjZCZlcz0xNzA4MjExNDY4JnV1aWQ9ODYxYjVlY2EwMjFjMGQwZjVkZjRiNGVkYWVjOTgwNzktMzIwNzcyMjMmdj0yJmFzPTAmY2RuZXhfaWQ9d3NfcGhvbmUz/JYKTMPP360.m3u8
+
+#EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/金鹰卡通" tvg-id="test" tvg-name="test",test
+https://www.youtube.com/882041c5-b1a6-4d12-ae76-0ecad8fe2ff9
